@@ -1,4 +1,4 @@
 # BIENVENIDO AL ENCRIPTADOR
 
-El siguiente archivo son los códigos con los que realice mi proyecto de programación para el encriptador como parte de la ruta de aprendizzaje 
+Este repositorio contiene los archivos de código que realice en el proyecto de programación Encriptador como parte de la ruta de aprendizzaje 
 de alura Latam. 
